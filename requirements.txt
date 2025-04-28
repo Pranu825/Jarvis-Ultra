@@ -1,0 +1,6 @@
+speechrecognition==3.8.1
+pyttsx3==2.90
+requests==2.26.0
+pyautogui==0.9.53
+psutil==5.9.1
+playsound==1.2.2
